@@ -1,0 +1,1 @@
+python app8.py dataset.csv -o operations
